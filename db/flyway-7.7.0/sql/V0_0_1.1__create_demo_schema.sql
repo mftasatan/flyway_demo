@@ -1,0 +1,1 @@
+CREATE SCHEMA demo_schema AUTHORIZATION demouser;
