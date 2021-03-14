@@ -1,6 +1,6 @@
 # flyway_demo
 
-This repo added for my medium post. It demonstrates how to use Evolutionary Database Design with Flyway and Postgresql
+This repo added for my medium [post](https://muhammedtasatan.medium.com/evolutionary-database-design-via-flyway-269e91927b5). It demonstrates how to use Evolutionary Database Design with Flyway and Postgresql
 
 How to part of db in => [/db/readme.md](https://github.com/mftasatan/flyway_demo/blob/main/db/readme.md)
 
